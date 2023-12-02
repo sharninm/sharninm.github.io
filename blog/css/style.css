@@ -245,7 +245,8 @@ header{
 }
 
 .attribution{
-    float: right;
+    text-align: right;
+    margin:5px;
 }
 .copy{
     float:left;
